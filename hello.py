@@ -9,4 +9,5 @@ def main(num):
 		print('KUYYAIMARK')
 		print('KUYYAIMARK')
 		print('KUYYAIMARK')
+		print('ทำไมน่ารักจังเลย')
 main(int(input()))
